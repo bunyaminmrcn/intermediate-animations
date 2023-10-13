@@ -3429,7 +3429,7 @@ form-data@^3.0.1:
     combined-stream "^1.0.8"
     mime-types "^2.1.12"
 
-framer-motion@^6.3.0:
+framer-motion@^6.3.0, framer-motion@^6.5.1:
   version "6.5.1"
   resolved "https://registry.yarnpkg.com/framer-motion/-/framer-motion-6.5.1.tgz#802448a16a6eb764124bf36d8cbdfa6dd6b931a7"
   integrity sha512-o1BGqqposwi7cgDrtg0dNONhkmPsUFDaLcKXigzuTFC5x58mE8iyTazxSudFzmT6MEyJKfjjU8ItoMe3W+3fiw==
@@ -4788,6 +4788,13 @@ mkdirp@^1.0.3, mkdirp@^1.0.4:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/mkdirp/-/mkdirp-1.0.4.tgz#3eb5ed62622756d79a5f0e2a221dfebad75c2f7e"
   integrity sha512-vVqVZQyf3WLx2Shd0qJ9xuvqgAyKPLAiqITEtqW0oIUjzo3PePDd6fW9iFz30ef7Ysp/oiWqbhszeGWW2T6Gzw==
+
+moti@^0.27.0:
+  version "0.27.0"
+  resolved "https://registry.yarnpkg.com/moti/-/moti-0.27.0.tgz#1590589e566044fcb2ffa775a7b333b319151248"
+  integrity sha512-sVEFFVvo4XKGn3POUUTRONIuQCH1iA0THnjZdb4SSxn/x365ptoqZg1DflTq3egTox3WJT+7u27HErrzGmU/7g==
+  dependencies:
+    framer-motion "^6.5.1"
 
 ms@2.0.0:
   version "2.0.0"
