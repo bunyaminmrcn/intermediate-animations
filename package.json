@@ -13,6 +13,7 @@
     "@motify/components": "^0.18.0",
     "@types/react": "~18.2.14",
     "expo": "~49.0.13",
+    "expo-constants": "~14.4.2",
     "expo-splash-screen": "~0.20.5",
     "expo-status-bar": "~1.6.0",
     "moti": "^0.27.0",
