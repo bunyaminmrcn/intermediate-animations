@@ -8,9 +8,10 @@ import Lesson4 from './src/lesson_4';
 import Lesson5 from './src/lesson_5';
 import Lesson6 from './src/lesson_6';
 import Lesson7 from './src/lesson_7';
+import Lesson8 from './src/lesson_8';
 
 export default function App() {
   return (
-    <Lesson7 />
+    <Lesson8 />
   );
 }
